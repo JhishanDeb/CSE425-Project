@@ -1,4 +1,4 @@
-## Experiments
+## Experiment for VAE
 ### Dataset Description
 The project utilized the Million Song Subset (MSS), a collection of 10,000 song samples rich in audio features and metadata. For this study, we created three progressively larger subsets:
 
